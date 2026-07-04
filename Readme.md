@@ -20,5 +20,6 @@ HelixRail is a standalone concurrency exploration sandbox designed to demonstrat
 Download the standard SQLite JDBC file driver `.jar` asset collection into your working directory path.
 
 ### 2. Compile Application Engine
-```bash
+
+
 javac RailControlSystem.java
